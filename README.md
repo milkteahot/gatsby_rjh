@@ -1,6 +1,5 @@
-# 30theart Project - Artist Website
-- Gatsby, Contentful(CMS), Netlify
-
-## Demo
-- use case: # gatsby
 # gatsby_rjh
+- Artist Website
+- Gatsby, Contentful(CMS), Netlify
+- use case: 
+

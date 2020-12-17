@@ -21,9 +21,9 @@ module.exports = {
       twitter: "https://twitter.com/",
     },
     locale: "en",
-    title: `Skying`,
-    description: `Portfolio of Skying`,
-    author: `@skying`,
+    title: `RJH`,
+    description: `Portfolio of RJH`,
+    author: `@rjh`,
   },
   plugins: [
     `gatsby-plugin-postcss`,
@@ -54,8 +54,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Skying`,
-        short_name: `skying`,
+        name: `RJH`,
+        short_name: `rjh`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#3182ce`,

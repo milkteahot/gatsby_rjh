@@ -27,7 +27,7 @@ const Header = () => {
           {/* <img src="30theart_md.png" alt="Logo" className="w-12 md:w-12" style={{borderRadius:"100px"}}/> */}
           <span className="logo__custom"
           style={{fontWeight:"500", fontSize:"25px", color:"#1a202c"}}
-          >SKYING</span>
+          >RJH</span>
         </Link>
 
         <button
