@@ -21,8 +21,8 @@ module.exports = {
       twitter: "https://twitter.com/",
     },
     locale: "en",
-    title: `RJH`,
-    description: `Portfolio of RJH`,
+    title: `Lovesome`,
+    description: `Love for what`,
     author: `@rjh`,
   },
   plugins: [
@@ -48,7 +48,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `RJH`,
+        name: `Lovesome`,
         short_name: `rjh`,
         start_url: `/`,
         background_color: `#ffffff`,
