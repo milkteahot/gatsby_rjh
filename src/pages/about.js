@@ -18,28 +18,13 @@ const AboutPage = ({ data }) => (
             </h1>
 
             <h2 className="text-xl leading-tight font-semibold tracking-tight text-blue-600 sm:text-2xl">
-              Exploring the world of Javascript and Art.
+            Lovesome, 평범한 일상 속에서 내가 사랑하는 것들을 발견하다. 
             </h2>
             <div className="mt-4 leading-loose">
-              Curabitur non hendrerit dolor. Interdum et malesuada fames ac ante
-              ipsum primis in faucibus. Ut&nbsp;sapien ex, fringilla sed
-              consectetur et, pharetra eget lacus.
+              평소에는 그냥 지나칠 수 있는 작은 것들도 조금 다른 시선으로 바라보면 내가 사랑하는 것들로 가득 차있는것을 발견할 수 있다. 그런 순간들을 사진으로 기록하는 평범한 공간이다. 
               <br />
               <br />
-              Morbi sem leo, varius ut tempus et, tempor sit amet nibh.
-              Curabitur fermentum feugiat libero, sed egestas lorem aliquam et.
-              Praesent id mi purus. Morbi sem leo, varius ut tempus et, tempor
-              sit amet nibh.
-              <br />
-              <br />
-              I'm happy to hear from you:
-              <br />
-              <a
-                href="mailto:contact@gmail.com"
-                className="border-b border-gray-500 hover:border-blue-600 hover:text-blue-600"
-              >
-                contact@gmail.com
-              </a>
+
             </div>
           </div>
           <div className="w-full md:w-1/2 xl:w-2/5 md:pl-12">
